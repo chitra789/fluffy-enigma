@@ -1,3 +1,3 @@
 # fluffy-enigma
-My first Git Repository.
-Author-Chitra Patel
+My first Git Repository.<br>
+Author - Chitra Patel
